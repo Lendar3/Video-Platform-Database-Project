@@ -158,4 +158,4 @@ This project was created for educational purposes to demonstrate database design
 
 ## Author
 
-**Irina Nekrashevych**
+**Oleksii Nekrashevych**
