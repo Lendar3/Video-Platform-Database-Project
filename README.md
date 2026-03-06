@@ -32,9 +32,7 @@ The database supports the following areas:
 
 ## ER diagram
 
-> Add the diagram file to the repository root to display it on GitHub.
-
-![ER Diagram](SBD_Project_Try1-2026-01-09_23-54.png)
+![ER Diagram](Video_host.png)
 
 ## Database objects
 
