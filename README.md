@@ -80,7 +80,7 @@ MsSQL_Trigger_Procedure.sql
 Oracle_Trigger_Procedure.sql
 Test_MsSQL.sql
 Test_Oracle.sql
-SBD_Project_Try1-2026-01-09_23-54.png
+Video_host.png
 README.md
 ```
 
